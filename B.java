@@ -1,4 +1,4 @@
-publilc class A{
+publilc class B{
 
 public static void main(String args[]
 ){
